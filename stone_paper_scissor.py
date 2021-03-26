@@ -6,6 +6,7 @@ Created on Thu Mar 25 23:07:01 2021
 """
 import random
 
+
 choice_of_computer = ["Stone","Paper","Scissor"] # computer choice
 
 print("||----You will get 5 Rounds --||")
